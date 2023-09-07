@@ -20,6 +20,8 @@ resources:
     type: dns
   bucky:
     type: s3
+  reddy:
+    type: redis
   route:
     type: route
     params:
